@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"VirtualCatPlugin_v1.0",
+    "sName":"VirtualCatPlugin",
+    "sDesc":"虚拟猫",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"VirtualCatPlugin.dll",
+	"sGroup":"VirtualPendant(虚拟形象)"
+}

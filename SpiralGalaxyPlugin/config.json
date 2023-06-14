@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SpiralGalaxyPlugin_v1.0",
+    "sName":"SpiralGalaxyPlugin",
+    "sDesc":"螺旋星系插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SpiralGalaxyPlugin.dll",
+    "sGroup":"EffectPendant(特效挂件)"
+}

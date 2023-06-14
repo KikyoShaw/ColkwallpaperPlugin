@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"HorizontalVisualizerExPlugin_v1.0",
+    "sName":"HorizontalVisualizerExPlugin",
+    "sDesc":"水平频谱(增强)插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"HorizontalVisualizerExPlugin.dll",
+	"sGroup":"Spectrum(频谱)"
+}

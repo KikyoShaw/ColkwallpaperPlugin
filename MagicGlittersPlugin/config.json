@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"MagicGlittersPlugin_v1.0",
+    "sName":"MagicGlittersPlugin",
+    "sDesc":"闪光纸片插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MagicGlittersPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

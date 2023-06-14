@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"AurorasPlugin_v1.0",
+    "sName":"AurorasPlugin",
+    "sDesc":"极光插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"AurorasPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

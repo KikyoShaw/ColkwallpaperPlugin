@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"VirtualCharacterPlugin_v1.0",
+    "sName":"VirtualCharacterPlugin",
+    "sDesc":"虚拟少女",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"VirtualCharacterPlugin.dll",
+	"sGroup":"VirtualPendant(虚拟形象)"
+}

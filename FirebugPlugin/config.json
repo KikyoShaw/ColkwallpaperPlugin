@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FirebugPlugin_v1.0",
+    "sName":"FirebugPlugin",
+    "sDesc":"萤火插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FirebugPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

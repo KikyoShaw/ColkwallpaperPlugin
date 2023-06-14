@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"IrridescentMetalPlugin_v1.0",
+    "sName":"IrridescentMetalPlugin",
+    "sDesc":"彩虹液态金属插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"IrridescentMetalPlugin.dll",
+	"sGroup":"EffectPendant(特效挂件)"
+}

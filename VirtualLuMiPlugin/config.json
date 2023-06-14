@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"VirtualLuMiPlugin_v1.0",
+    "sName":"VirtualLuMiPlugin",
+    "sDesc":"虚拟人物",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"VirtualLuMiPlugin.dll",
+	"sGroup":"VirtualPendant(虚拟形象)"
+}

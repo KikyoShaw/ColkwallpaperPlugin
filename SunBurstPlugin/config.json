@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SunBurstPlugin_v1.0",
+    "sName":"SunBurstPlugin",
+    "sDesc":"阳光插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SunBurstPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FallingStarsPlugin_v1.0",
+    "sName":"FallingStarsPlugin",
+    "sDesc":"流星插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FallingStarsPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

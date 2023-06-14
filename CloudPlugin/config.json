@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CloudPlugin_v1.0",
+    "sName":"CloudPlugin",
+    "sDesc":"云雾插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"CloudPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

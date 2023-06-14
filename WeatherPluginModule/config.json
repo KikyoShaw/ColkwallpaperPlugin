@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"WeatherPluginModule_v1.0",
+    "sName":"WeatherPluginModule",
+    "sDesc":"天气插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"WeatherPluginModule.dll",
+	"sGroup":"Infos(信息)"
+}

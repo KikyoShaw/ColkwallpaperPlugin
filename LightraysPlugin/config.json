@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LightraysPlugin_v1.0",
+    "sName":"LightraysPlugin",
+    "sDesc":"光线插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LightraysPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

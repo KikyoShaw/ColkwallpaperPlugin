@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"GlobalRemixPlugin_v1.0",
+    "sName":"GlobalRemixPlugin",
+    "sDesc":"星际之门",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"GlobalRemixPlugin.dll",
+	"sGroup":"AstrogeographyPendant(天文地理)"
+}

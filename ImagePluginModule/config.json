@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"ImagePluginModule_v1.0",
+    "sName":"ImagePlugin",
+    "sDesc":"静态图动画挂件插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"ImagePluginModule.dll",
+	"sGroup":"ImagePendant(图片挂件)"
+}

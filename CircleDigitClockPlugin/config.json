@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CircleDigitClockPlugin_v1.0",
+    "sName":"CircleDigitClockPlugin",
+    "sDesc":"彩圆数字时钟插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"CircleDigitClockPlugin.dll",
+	"sGroup":"Infos(信息)"
+}

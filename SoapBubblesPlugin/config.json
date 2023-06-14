@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SoapBubblesPlugin_v1.0",
+    "sName":"SoapBubblesPlugin",
+    "sDesc":"肥皂泡泡插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SoapBubblesPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

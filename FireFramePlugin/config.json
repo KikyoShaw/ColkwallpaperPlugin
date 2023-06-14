@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FireFramePlugin_v1.0",
+    "sName":"FireFramePlugin",
+    "sDesc":"火焰边框插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FireFramePlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"SnowSimpPlugin_v1.0",
+    "sName":"SnowSimpPlugin",
+    "sDesc":"雪(simp)插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"SnowSimpPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

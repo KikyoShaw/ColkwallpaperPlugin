@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RotationAlbumPlugin_v1.0",
+    "sName":"RotationAlbumPlugin",
+    "sDesc":"3D旋转相册",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RotationAlbumPlugin.dll",
+	"sGroup":"UniversalPendant(通用挂件)"
+}

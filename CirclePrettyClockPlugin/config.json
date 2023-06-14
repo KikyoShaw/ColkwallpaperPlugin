@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CirclePrettyClockPlugin_v1.0",
+    "sName":"CirclePrettyClockPlugin",
+    "sDesc":"圆时钟插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"CirclePrettyClockPlugin.dll",
+	"sGroup":"Infos(信息)"
+}

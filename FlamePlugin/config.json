@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FlamePlugin_v1.0",
+    "sName":"FlamePlugin",
+    "sDesc":"火焰挂件插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FlamePlugin.dll",
+	"sGroup":"EffectPendant(特效挂件)"
+}

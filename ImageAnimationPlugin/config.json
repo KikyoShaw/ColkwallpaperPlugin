@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"ImageAnimationPlugin_1.0",
+    "sName":"Animation",
+    "sDesc":"动态图动画挂件插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"ImageAnimationPlugin.dll",
+	"sGroup":"ImagePendant(图片挂件)"
+}

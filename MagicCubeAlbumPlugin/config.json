@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"MagicCubeAlbumPlugin_v1.0",
+    "sName":"MagicCubeAlbumPlugin",
+    "sDesc":"3D魔方相册",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"MagicCubeAlbumPlugin.dll",
+	"sGroup":"UniversalPendant(通用挂件)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"WaveVisualizer_v1.0",
+    "sName":"WaveVisualizer",
+    "sDesc":"波形虚拟化插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"WaveVisualizer.dll",
+	"sGroup":"Spectrum(频谱)"
+}

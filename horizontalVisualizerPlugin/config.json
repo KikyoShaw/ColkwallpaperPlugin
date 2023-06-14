@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"HorizontalVisualizerPlugin_v1.0",
+    "sName":"HorizontalVisualizerPlugin",
+    "sDesc":"频谱(水平)插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"HorizontalVisualizerPlugin.dll",
+	"sGroup":"Spectrum(频谱)"
+}

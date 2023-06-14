@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FogHornAlphaPlugin_v1.0",
+    "sName":"FogHornAlphaPlugin",
+    "sDesc":"雨雾插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FogHornAlphaPlugin.dll",
+    "sGroup":"NatureEffect(自然特效)"
+}

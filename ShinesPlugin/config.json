@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"ShinesPlugin_v1.0",
+    "sName":"ShinesPlugin",
+    "sDesc":"光点插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"ShinesPlugin.dll",
+    "sGroup":"NatureEffect(自然特效)"
+}

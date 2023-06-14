@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FogPlugin_v1.0",
+    "sName":"FogPlugin",
+    "sDesc":"雾之插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FogPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

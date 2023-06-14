@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainWinGlassPlugin_v1.0",
+    "sName":"RainWinGlassPlugin",
+    "sDesc":"雨&窗插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainWinGlassPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainPlugin_v1.0",
+    "sName":"RainPlugin",
+    "sDesc":"雨之插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

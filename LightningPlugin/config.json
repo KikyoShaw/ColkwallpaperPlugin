@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"LightningPlugin_v1.0",
+    "sName":"LightningPlugin",
+    "sDesc":"闪电插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"LightningPlugin.dll",
+	"sGroup":"NatureEffect(自然特效)"
+}

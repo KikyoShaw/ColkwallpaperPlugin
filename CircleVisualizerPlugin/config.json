@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"CircleVisualizerPlugin_v1.0",
+    "sName":"CircleVisualizerPlugin",
+    "sDesc":"频谱(圆线)插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"CircleVisualizerPlugin.dll",
+	"sGroup":"Spectrum(频谱)"
+}

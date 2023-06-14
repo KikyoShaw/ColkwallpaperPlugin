@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"RainbowRoadPlugin_v1.0",
+    "sName":"RainbowRoadPlugin",
+    "sDesc":"彩虹之梯插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"RainbowRoadPlugin.dll",
+	"sGroup":"EffectPendant(特效挂件)"
+}
