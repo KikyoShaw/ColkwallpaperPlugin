@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"FireVolumetricPlugin_v1.0",
+    "sName":"FireVolumetricPlugin",
+    "sDesc":"火堆插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"FireVolumetricPlugin.dll",
+    "sGroup":"FireEffect(火焰特效)"
+}

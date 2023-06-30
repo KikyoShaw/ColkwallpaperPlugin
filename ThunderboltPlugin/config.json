@@ -1,0 +1,9 @@
+{
+    "sIdentifyKey":"ThunderboltPlugin_v1.0",
+    "sName":"ThunderboltPlugin",
+    "sDesc":"雷电插件",
+    "sThumbPicName":"Thumb.jpg",
+    "iOverheadLevel":1,
+    "sModelName":"ThunderboltPlugin.dll",
+    "sGroup":"NatureEffect(自然特效)"
+}
